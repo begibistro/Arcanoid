@@ -1,0 +1,25 @@
+﻿  BallController.cpp
+  BlockController.cpp
+  BonusController.cpp
+  PlatformController.cpp
+  Game.cpp
+  Logic.cpp
+c:\users\artemixone\desktop\arcanoid\src\core\logic.cpp(17): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\artemixone\desktop\arcanoid\src\core\logic.cpp(16): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Window.cpp
+  main.cpp
+  Ball.cpp
+  Block.cpp
+  Bonus.cpp
+  Platform.cpp
+  Создание кода...
+c:\users\artemixone\desktop\arcanoid\src\controller\blockcontroller.cpp(77): warning C4715: BlockController::setDestroy: значение возвращается не при всех путях выполнения
+  Arcanoid.vcxproj -> C:\Users\ArtemixOne\Desktop\Arcanoid\x64\Debug\Arcanoid.exe
